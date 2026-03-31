@@ -15,7 +15,8 @@
 - Proves there is a statistical advantage to the team that slays the dragon first.
 - Shows that the Blue team has over 4 Standard Deviations of winrate bias!
 
-### Coolio: The AI Powered Smart Fridge (REPO to be created)
+### Coolio: The AI Powered Smart Fridge
+## Repository currently unavailable
 - AI powered Smart Fridge with a web application.
 - Scans the contents of your fridge.
 - Interact with it via Discord or its Web-App.
