@@ -4,6 +4,7 @@
 - Hobbyist
 
 # Projects
+
 ### [Discord voice detection](https://github.com/Zephrai/Frieren/tree/main)
 - A Discord Bot that joins a user's Voice Channel, detects their Microphone input and tracks how long each user that joins the channel speaks for. It displays the data in a Pie chart sent as an Embed to the Discord channel.
 
