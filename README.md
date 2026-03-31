@@ -16,7 +16,7 @@
 - Shows that the Blue team has over 4 Standard Deviations of winrate bias!
 
 ### Coolio: The AI Powered Smart Fridge
-## Repository currently unavailable
+- Repository currently unavailable
 - AI powered Smart Fridge with a web application.
 - Scans the contents of your fridge.
 - Interact with it via Discord or its Web-App.
