@@ -15,6 +15,10 @@
 - Proves there is a statistical advantage to the team that slays the dragon first.
 - Shows that the Blue team has over 4 Standard Deviations of winrate bias!
 
+### [Flappy Bird Clone](https://github.com/Zephrai/flappy_birb)
+- Flappy Bird using Pygame
+- Learning Classes and OOP
+
 ### Coolio: The AI Powered Smart Fridge
 - Repository currently unavailable
 - AI powered Smart Fridge with a web application.
