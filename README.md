@@ -5,7 +5,7 @@
 
 # Projects
 
-### [Discord voice detection](https://github.com/Zephrai/Frieren](https://github.com/Zephrai/voice_analysis)
+### [Discord voice detection](https://github.com/Zephrai/voice_analysis)
 - A Discord Bot that detects user Microphone input.
 - Tracks how long each user that joins the channel speaks for.
 - Displays the data in a Pie chart sent as an Embed to the Discord channel.
