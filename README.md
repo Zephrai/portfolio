@@ -19,7 +19,7 @@
 
 ### Flappy Bird Clone
 - [Flappy Bird](https://github.com/Zephrai/flappy_birb)
-- Flappy Bird using Pygame
+- Built using Pygame
 - Learning Classes and OOP
 
 ### Coolio: The AI Powered Smart Fridge
